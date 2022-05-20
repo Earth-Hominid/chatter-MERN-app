@@ -34,8 +34,7 @@ module.exports = { handleError };
 ### Dependencies & Development Dependencies
 
 - [Express](https://expressjs.com/)
-- [Express Session](https://expressjs.com/en/resources/middleware/session.html)
-- [PassportJS](https://www.passportjs.org/) -[EJS Templates](https://ejs.co/)
+- [JSON Web Tokens](https://jwt.io/)
 - [Dotenv](https://www.npmjs.com/package/dotenv)
 - [Nodemon](https://nodemon.io/) - Development dependency
 - [Mongoose](https://mongoosejs.com/)
